@@ -1,0 +1,14 @@
+{
+    "bookingid": 3337,
+    "booking": {
+        "firstname": "gurupalli",
+        "lastname": "tarun",
+        "totalprice": 123,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2018-01-01",
+            "checkout": "2019-01-01"
+        },
+        "additionalneeds": "bdvhbifkashbdlher"
+    }
+}

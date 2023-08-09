@@ -1,0 +1,11 @@
+{
+    "firstname": "gurupalli",
+    "lastname": "gurupalli",
+    "totalprice": 128,
+    "depositpaid": false,
+    "bookingdates": {
+        "checkin": "2018-03-29",
+        "checkout": "2019-03-31"
+    },
+    "additionalneeds": "bdvhbifkashbdlher"
+}
